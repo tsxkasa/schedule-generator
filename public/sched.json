@@ -1,0 +1,179 @@
+{
+  "student_id": 12345,
+  "schedule": [
+    {
+      "day": "monday",
+      "subjects": [
+        {
+          "is_merge": true,
+          "name": "E&C Project Exhibition",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": false,
+          "name": "Social Studies 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": false,
+          "name": "Thai Language 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": true,
+          "name": "Maths 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": true,
+          "name": "Physik 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        }
+      ]
+    },
+
+    {
+      "day": "tuesday",
+      "subjects": [
+        {
+          "is_merge": true,
+          "name": "E&C Project Exhibition",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": false,
+          "name": "Social Studies 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": false,
+          "name": "Thai Language 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": true,
+          "name": "Maths 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": true,
+          "name": "Physik 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        }
+      ]
+    },
+
+    {
+      "day": "wednesday",
+      "subjects": [
+        {
+          "is_merge": true,
+          "name": "E&C Project Exhibition",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": false,
+          "name": "Social Studies 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": false,
+          "name": "Thai Language 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": true,
+          "name": "Maths 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": true,
+          "name": "Physik 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        }
+      ]
+    },
+
+    {
+      "day": "thursday",
+      "subjects": [
+        {
+          "is_merge": true,
+          "name": "E&C Project Exhibition",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": false,
+          "name": "Social Studies 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": false,
+          "name": "Thai Language 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": true,
+          "name": "Maths 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": true,
+          "name": "Physik 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        }
+      ]
+    },
+
+    {
+      "day": "friday",
+      "subjects": [
+        {
+          "is_merge": true,
+          "name": "E&C Project Exhibition",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": false,
+          "name": "Social Studies 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": false,
+          "name": "Thai Language 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": true,
+          "name": "Maths 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        },
+
+        {
+          "is_merge": true,
+          "name": "Physik 5",
+          "teacher": ["T. a", "T. b", "T. b"]
+        }
+      ]
+    }
+  ]
+}
